@@ -1,0 +1,55 @@
+{
+    "your_secret_code_reqired": "Your secret code is required for unlock",
+
+     "tranfert_text":"TRANSFER",
+     "payment_text": "PAYMENTS",
+     "credit_text": "CREDIT",
+     "from_text": "From",
+     "to_text": "To",
+     "facture_text": "Bill",
+     "buy_credit_for_text": "Credit",
+
+     "no_favorite_text": "No favorite contact",
+     "loading_contact_text": "Loading ...",
+
+     "send_money_home_toolbar_text": "Send money",
+     "send_money_home_search_hint_text": "Research",
+     "send_money_home_send_to_number_text": "Send to a number",
+     "send_money_home_send_favorite_text": "FAVORITES",
+     "send_money_home_send_contact_text": "CONTACTS",
+
+     "name_hint_text": "Fullname",
+     "phone_hint_text": "Phone number",
+     "send_button_text": "Send",
+     "amout_send_hint_text": "Amount sent",
+     "amout_receive_hint_text": "Amount received",
+     "yes_button": "YES",
+     "no_button": "NO",
+     "costs_text": "costs Nafa",
+     "paiement_confirmation": "Payment confirmation",
+     "sent_confirmation": "Transfer confirmation",
+     "amout_text": "Amount",
+     "btn_confirm_text": "Confirm",
+     "operation_in_progress": "Operation in progress ...",
+     "message_thank": "Thanks for choosing Nafa",
+     
+
+     "dest_text": "Recipient",
+     
+     "payment_home_toolbar_text": "Payments",
+     "payment_home_search_hint_text": "Research",
+
+     "buy_credit_home_toolbar_text": "Buy credit",
+     "buy_credit_home_search_hint_text": "Research",
+     "buy_credit_home_to_number_text": "Buy credit for a new number",
+     "buy_credit_home_favorite_text": "FAVORITES",
+     "buy_credit_home_contact_text": "CONTACTS",
+
+
+     "amout_errr_text": "5 is the minimum amount"
+     
+    
+
+
+
+}

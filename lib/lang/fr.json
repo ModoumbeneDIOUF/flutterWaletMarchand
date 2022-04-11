@@ -1,0 +1,50 @@
+{
+    "your_secret_code_reqired": "Votre code secret est requis pour devérouiller",
+
+     "tranfert_text":"TRANSFERT",
+     "payment_text": "PAIEMENTS",
+     "credit_text": "CRÉDIT",
+     "from_text": "De",
+     "to_text": "À",
+     "facture_text": "Facture",
+     "buy_credit_for_text": "Crédit",
+
+     "no_favorite_text": "Pas de contact favori",
+     "loading_contact_text": "Chargement en cours ...",
+
+     "send_money_home_toolbar_text": "Envoyez de l'argent",
+     "send_money_home_search_hint_text": "Rechercher",
+     "send_money_home_send_to_number_text": "Envoyez à un numéro",
+     "send_money_home_send_favorite_text": "FAVORIS",
+     "send_money_home_send_contact_text": "CONTACTS",
+
+     "name_hint_text": "Nom complet",
+     "phone_hint_text": "Numéro de téléphone",
+     "send_button_text": "Envoyez",
+     "amout_send_hint_text": "Montant envoyé",
+     "amout_receive_hint_text": "Montant reçu",
+     "yes_button": "OUI",
+     "no_button": "NON",
+     "costs_text": "frais Nafa",
+     "paiement_confirmation": "Confirmer le paiement",
+     "sent_confirmation": "Confirmer le transfert",
+     "amout_text": "Montant",
+     "btn_confirm_text": "Confirmer",
+     "operation_in_progress": "Opération en cours ...",
+     "message_thank": "Merci d'avoir choisi Nafa",
+
+     "dest_text": "Destinataire",
+
+     "payment_home_toolbar_text": "Paiements",
+     "payment_home_search_hint_text": "Rechercher",
+
+     "buy_credit_home_toolbar_text": "Achat crédit",
+     "buy_credit_home_search_hint_text": "Rechercher",
+     "buy_credit_home_to_number_text": "Acheter du crédit pour un nouveau numéro",
+     "buy_credit_home_favorite_text": "FAVORIS",
+     "buy_credit_home_contact_text": "CONTACTS",
+
+     "amout_errr_text": "5 est le montant minimun"
+
+     
+}
